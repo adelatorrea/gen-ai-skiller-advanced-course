@@ -1,0 +1,31 @@
+# Laboratorio HandsOn
+
+## Objetivo de la Aplicación
+
+Desarrollar una calculadora básica que realice operaciones simples como sumar, restar, multiplicar y dividir.
+
+### Paso 1: Crear la Estructura Básica
+
+**Descripción:**  
+Genera un código en Python para una calculadora básica que pueda realizar sumas, restas, multiplicaciones y divisiones. El programa debe pedir al usuario que ingrese dos números y luego elegir la operación a realizar.
+
+### Paso 2: Añadir Funcionalidad de Elección de Operación
+
+**Descripción:**  
+Modifica el código de la calculadora básica en Python para que el usuario pueda elegir entre sumar, restar, multiplicar o dividir después de ingresar los números. Añade una función para cada operación.
+
+### Paso 3: Implementar Validación de Entradas
+
+**Descripción:**  
+Agrega validación de entrada al código de la calculadora en Python. Asegúrate de que el usuario ingrese solo números y maneja errores como divisiones por cero.
+
+### Paso 4: Mejorar la Interfaz de Usuario
+
+**Descripción:**  
+Mejora la interfaz de usuario de la calculadora en Python. Implementa un bucle que permita realizar múltiples cálculos sin reiniciar el programa y añade mensajes claros para el usuario.
+
+### Paso 5: Añadir Historial de Operaciones
+
+**Descripción:**  
+Incluye una característica de historial en el código de la calculadora en Python. Guarda cada operación realizada y sus resultados, y permite al usuario ver este historial antes de salir del programa.
+
